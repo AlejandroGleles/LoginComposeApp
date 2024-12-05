@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "719877319471",
+    "project_id": "composerfirebase",
+    "storage_bucket": "composerfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719877319471:android:c557e65cc9ef95948f8fda",
+        "android_client_info": {
+          "package_name": "br.gonzaga.logincomposeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719877319471-87tapdnbochfa6cbicgd6nhlbm3jl8ln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.gonzaga.logincomposeapp",
+            "certificate_hash": "49478dfe3385a88a9d2707afb636007d16d67da0"
+          }
+        },
+        {
+          "client_id": "719877319471-a6390hcp7l7pf1mhbh54pnahqek7e6lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn0z6i_Z0N-NODp8Lo3EuCtdYT0MavxH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719877319471-a6390hcp7l7pf1mhbh54pnahqek7e6lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
