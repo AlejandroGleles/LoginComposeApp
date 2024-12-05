@@ -17,7 +17,7 @@ Este é um aplicativo de login desenvolvido em **Kotlin** no **Android Studio** 
 Configurar o Ambiente
 Abra o projeto no Android Studio. Certifique-se de que todas as dependências do arquivo build.gradle foram sincronizadas.
 
-Configurar o Firebase
+2.**Configurar o Firebase**
 
 Acesse o console do Firebase e crie um novo projeto.
 Ative a autenticação com e-mail/senha e Google no Firebase Authentication.
@@ -36,6 +36,8 @@ HomeScreen.kt: Tela exibida após o login bem-sucedido, com uma mensagem de boas
 br.gonzaga.logincomposeapp.ui.theme
 
 LoginComposeAppTheme.kt: Definições de tema e estilo para o aplicativo.
+
+
 🔧 Tecnologias Utilizadas
 
 Kotlin: Linguagem principal para o desenvolvimento.
@@ -43,9 +45,21 @@ Jetpack Compose: Biblioteca moderna para criação de interfaces de usuário.
 Firebase Authentication: Autenticação de usuários via e-mail/senha e Google.
 Google Sign-In: Implementação de login com Google.
 ActivityResultContracts: Gerenciamento do resultado da atividade de login com Google.
+
 📷 Telas do Aplicativo
 
 Tela de Login: Exibe campos para login com e-mail/senha e login com Google.
+
+![login](https://github.com/user-attachments/assets/f611d6d1-dfc3-4757-82b4-046794c7f642)
+
+
+Tela de criar conta : Exibe campos para email e senha .
+![Screenshot_2024-12-05-19-54-11-847_br gonzaga logincomposeapp](https://github.com/user-attachments/assets/942abcef-0154-4fd5-9d1c-aab6e00fe6a9)
+
+
 Tela Inicial: Exibe uma mensagem de boas-vindas após login bem-sucedido.
+
+![Screenshot_2024-12-05-20-05-32-830_br gonzaga logincomposeapp](https://github.com/user-attachments/assets/0b107913-bdf7-48b2-98fc-7e2c41dd0df9)
+
 Licença
 Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para mais detalhes.
