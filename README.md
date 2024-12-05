@@ -16,11 +16,13 @@ Este é um aplicativo de login desenvolvido em **Kotlin** no **Android Studio** 
    git clone https://github.com/seu-usuario/LoginComposeApp.git
 Configurar o Ambiente
 Abra o projeto no Android Studio. Certifique-se de que todas as dependências do arquivo build.gradle foram sincronizadas.
+de o comando ./gradlew signingReport no terminal pra gerar a chave SHA1
 
 2.**Configurar o Firebase**
 
 Acesse o console do Firebase e crie um novo projeto.
 Ative a autenticação com e-mail/senha e Google no Firebase Authentication.
+coloque a chave SHA1 nele pra autenticar usando o google.
 Baixe o arquivo google-services.json e coloque-o no diretório app/ do seu projeto.
 Executar o Aplicativo
 Conecte um dispositivo Android ou inicie um emulador. Clique em "Run" no Android Studio.
